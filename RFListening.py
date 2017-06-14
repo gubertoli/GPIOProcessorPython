@@ -1,3 +1,6 @@
+# Based on 
+# https://www.instructables.com/id/Super-Simple-Raspberry-Pi-433MHz-Home-Automation/
+
 from datetime import datetime
 import matplotlib.pyplot as pyplot
 from GPIOProcessor import GPIOProcessor
