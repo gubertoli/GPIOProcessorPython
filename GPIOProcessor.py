@@ -19,7 +19,7 @@ class GPIOProcessor:
         return self.getPin(7)
 
     def getPin23(self):
-        return self.getPin(206)
+        return self.getPin(36)  #Debian
 
     def getPin24(self):
         return self.getPin(207)
