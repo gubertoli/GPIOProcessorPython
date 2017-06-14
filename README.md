@@ -8,3 +8,4 @@ All codes shall be executed with "sudo" once it interacts directly with the hard
 
 Debian x Dragonboard 410c Low Speed Connector PINs Assignment:
 
+![alt text](https://github.com/gubertoli/GPIOProcessorPython/blob/master/debian_dragonboard_PINs.png?raw=true)
